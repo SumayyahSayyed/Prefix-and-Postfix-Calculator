@@ -5,7 +5,7 @@
 - [Overview](#overview)
   - [Language](#language)
   - [Working](#working)
-- [Methadology](#methadology)
+- [Methodology](#methodology)
   - [Programming Model](#programming-model)
   - [Functions](#functions)
   - [Libraries](#libraries)
@@ -33,7 +33,7 @@ This project is made in [C++] programming language.
 •	This program is made flexible for the user to go back to the main section and choose again.
 •	If the user does not want to go to the main section, the program thanks the user for using our program and ends.
 
-## Methadology
+## Methodology
 
 ### Programming Model
 
